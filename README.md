@@ -4,7 +4,7 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0,5&color=F7A000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Writer;Always+JANCOK+🚀">
   </p>
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e4775qd64q3z7oolpe9fp0zb51vswbacisxowupc0j1&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcno5eGZianlxeTZpbzFqcXpibDAycjlpdDlpd3B3Nm9kNm5sZmo4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Lpnnr4eL1PUppbZka/giphy.gif"/>
 
 </div>
 

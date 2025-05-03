@@ -4,7 +4,7 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0,5&color=F7A000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Writer;Always+JANCOK+🚀">
   </p>
-  <img src="https://giphy.com/gifs/help-harold-hide-the-pain-pUVOeIagS1rrqsYQJe"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e4775qd64q3z7oolpe9fp0zb51vswbacisxowupc0j1&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
 </div>
 
